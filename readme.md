@@ -1,6 +1,6 @@
 # Projeto de Análise de Dados
 
-## Descrição
+## Descrição:
 Este projeto contém scripts para análise de dados de carros e processamento de textos. Inclui funções para extrair colunas específicas de arquivos CSV e para extrair linhas específicas de arquivos de texto.
 
 ## Estrutura
